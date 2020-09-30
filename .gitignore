@@ -1,0 +1,55 @@
+# Created by .ignore support plugin (hsz.mobi)
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+*.log.zip
+*.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/.mvn/
+/mvnw.cmd
+/mvnw
+/.mvn/wrapper/maven-wrapper.jar
+/logs/
+
+/nacos/mvnw
+/nacos/mvnw.cmd
+/nacos/.mvn/
+/nacos/.mvn/wrapper/maven-wrapper.jar
+/nacos/.mvn/wrapper/maven-wrapper.properties
+/nacos/.mvn/wrapper/MavenWrapperDownloader.java
+/nacos-discovery/mvnw
+/nacos-discovery/mvnw.cmd
+/nacos-consumer/mvnw.cmd
+/nacos-consumer/mvnw
+/nacos-consumer/.mvn/
+/nacos-consumer-two/mvnw
+/nacos-consumer-two/mvnw.cmd
+/nacos-discovery-two/mvnw
+/nacos-discovery-two/mvnw.cmd
