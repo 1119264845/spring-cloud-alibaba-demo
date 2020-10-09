@@ -53,3 +53,6 @@ build/
 /nacos-consumer-two/mvnw.cmd
 /nacos-discovery-two/mvnw
 /nacos-discovery-two/mvnw.cmd
+/nacos-config/mvnw.cmd
+/nacos-config/mvnw
+/nacos-config/.mvn/
